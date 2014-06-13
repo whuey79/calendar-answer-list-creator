@@ -1,9 +1,10 @@
 calendar-answer-list-creator
 ============================
 
-add lastest version dates3.py
+add lastest version dates3.py<br>
+Updated:  09/13/2013<br>
 
-A small python program that takes a date ie. 06/03 and a timeslot and formats it for AD calendar template.
+A python program that takes a date ie. 06/03 and a timeslot and formats it for AD calendar template.
 
 <ul>
 <li>Creates group header</li>
